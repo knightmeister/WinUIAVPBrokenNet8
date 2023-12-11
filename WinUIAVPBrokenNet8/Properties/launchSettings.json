@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WinUIAVPBrokenNet8 (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WinUIAVPBrokenNet8 (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
